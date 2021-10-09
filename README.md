@@ -1,6 +1,6 @@
 **This is a telegram bot.**
 
-***MISSION: ***
+***MISSION:***
 *Words and letters entered in the Uzbek alphabet into the Russian alphabet turns.*
 
 FOR USE:
